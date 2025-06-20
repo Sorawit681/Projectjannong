@@ -6,5 +6,13 @@
     "email": "Fiat@gmail.com",
     "password": "1234",
     "category": "student"
+  },
+  {
+    "userAt": "2025-06-20T14:16:18.527Z",
+    "fname": "tle",
+    "lname": "malone",
+    "email": "som6052522@gmail.com",
+    "password": "123456",
+    "category": "Ordinary people"
   }
 ]
